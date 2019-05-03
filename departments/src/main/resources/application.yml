@@ -1,0 +1,5 @@
+micronaut:
+    application:
+        name: departments
+    server:
+        port: 8010
